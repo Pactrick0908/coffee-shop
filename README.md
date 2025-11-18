@@ -160,7 +160,7 @@ MIT License - Tự do sử dụng cho mục đích học tập và thương mạ
 
 ## 👤 Tác giả
 
-[Tên của bạn]
+Nhóm 4
 
 ## 🙏 Cảm ơn
 
