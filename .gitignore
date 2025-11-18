@@ -1,0 +1,33 @@
+# File .gitignore cho project PHP
+
+# File cấu hình database (chứa thông tin nhạy cảm)
+includes/db_config.php
+
+# Thư mục uploads (chứa file người dùng upload)
+uploads/*
+!uploads/.gitkeep
+
+# File tạm và log
+*.tmp
+*.log
+*.cache
+*.bak
+*.backup
+
+# File hệ thống
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# File môi trường
+.env
+.env.local
+
+# File backup database
+*.sql.bak
+*.sql.backup
+
